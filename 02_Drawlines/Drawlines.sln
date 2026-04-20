@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "drawline", "drawline\drawline.csproj", "{CA0D0EEF-D369-4AAE-A823-55D5A8CFC012}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseDraw", "MouseDraw\MouseDraw.csproj", "{EF9DC011-9A41-4903-A433-C5EA9C6918CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawOnCanvas", "DrawOnCanvas\DrawOnCanvas.csproj", "{FCDD399E-FCC8-47B7-BA5D-50CCF079966D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chessBoard", "chessBoard\chessBoard.csproj", "{E61F6987-1A81-451D-9CC2-985B97BA5635}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseDraw2", "MouseDraw2\MouseDraw2.csproj", "{AC0CED04-219E-4A43-BDE7-4AF93BF9D189}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseDrawUDP", "MouseDrawUDP\MouseDrawUDP.csproj", "{BCBC9342-E2AE-44C0-8F60-603C4294337C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA0D0EEF-D369-4AAE-A823-55D5A8CFC012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA0D0EEF-D369-4AAE-A823-55D5A8CFC012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA0D0EEF-D369-4AAE-A823-55D5A8CFC012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA0D0EEF-D369-4AAE-A823-55D5A8CFC012}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF9DC011-9A41-4903-A433-C5EA9C6918CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF9DC011-9A41-4903-A433-C5EA9C6918CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF9DC011-9A41-4903-A433-C5EA9C6918CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF9DC011-9A41-4903-A433-C5EA9C6918CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCDD399E-FCC8-47B7-BA5D-50CCF079966D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCDD399E-FCC8-47B7-BA5D-50CCF079966D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCDD399E-FCC8-47B7-BA5D-50CCF079966D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCDD399E-FCC8-47B7-BA5D-50CCF079966D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E61F6987-1A81-451D-9CC2-985B97BA5635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E61F6987-1A81-451D-9CC2-985B97BA5635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E61F6987-1A81-451D-9CC2-985B97BA5635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E61F6987-1A81-451D-9CC2-985B97BA5635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC0CED04-219E-4A43-BDE7-4AF93BF9D189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC0CED04-219E-4A43-BDE7-4AF93BF9D189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC0CED04-219E-4A43-BDE7-4AF93BF9D189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC0CED04-219E-4A43-BDE7-4AF93BF9D189}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCBC9342-E2AE-44C0-8F60-603C4294337C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCBC9342-E2AE-44C0-8F60-603C4294337C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCBC9342-E2AE-44C0-8F60-603C4294337C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCBC9342-E2AE-44C0-8F60-603C4294337C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E12DDAD-023B-41A5-9843-BFB83AC31207}
+	EndGlobalSection
+EndGlobal

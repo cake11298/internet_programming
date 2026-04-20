@@ -1,0 +1,11 @@
+D:\NTUST\Courses\C#網路程式設計\範例程式(上課用)\01_UDPMSN\newInvoke2\bin\Debug\newInvoke2.exe.config
+D:\NTUST\Courses\C#網路程式設計\範例程式(上課用)\01_UDPMSN\newInvoke2\bin\Debug\newInvoke2.exe
+D:\NTUST\Courses\C#網路程式設計\範例程式(上課用)\01_UDPMSN\newInvoke2\bin\Debug\newInvoke2.pdb
+D:\NTUST\Courses\C#網路程式設計\範例程式(上課用)\01_UDPMSN\newInvoke2\obj\Debug\newInvoke2.csproj.AssemblyReference.cache
+D:\NTUST\Courses\C#網路程式設計\範例程式(上課用)\01_UDPMSN\newInvoke2\obj\Debug\newInvoke2.Form1.resources
+D:\NTUST\Courses\C#網路程式設計\範例程式(上課用)\01_UDPMSN\newInvoke2\obj\Debug\newInvoke2.Properties.Resources.resources
+D:\NTUST\Courses\C#網路程式設計\範例程式(上課用)\01_UDPMSN\newInvoke2\obj\Debug\newInvoke2.csproj.GenerateResource.cache
+D:\NTUST\Courses\C#網路程式設計\範例程式(上課用)\01_UDPMSN\newInvoke2\obj\Debug\newInvoke2.csproj.CoreCompileInputs.cache
+D:\NTUST\Courses\C#網路程式設計\範例程式(上課用)\01_UDPMSN\newInvoke2\obj\Debug\newInvoke2.exe
+D:\NTUST\Courses\C#網路程式設計\範例程式(上課用)\01_UDPMSN\newInvoke2\obj\Debug\newInvoke2.pdb
+D:\NTUST\Courses\C#網路程式設計\範例程式(上課用)\01_UDPMSN\newInvoke2\obj\Debug\newInvoke2.exe.config

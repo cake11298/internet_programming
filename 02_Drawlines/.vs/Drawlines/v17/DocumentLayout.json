@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Works\\NTUST\\Courses\\\u7DB2\u8DEF\u7A0B\u5F0F\u8A2D\u8A08\\C#\u7DB2\u8DEF\u7A0B\u5F0F\u8A2D\u8A08\\\u7BC4\u4F8B\u7A0B\u5F0F(\u4E0A\u8AB2\u7528)\\02_Drawlines\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBC9342-E2AE-44C0-8F60-603C4294337C}|MouseDrawUDP\\MouseDrawUDP.csproj|c:\\works\\ntust\\courses\\\u7DB2\u8DEF\u7A0B\u5F0F\u8A2D\u8A08\\c#\u7DB2\u8DEF\u7A0B\u5F0F\u8A2D\u8A08\\\u7BC4\u4F8B\u7A0B\u5F0F(\u4E0A\u8AB2\u7528)\\02_drawlines\\mousedrawudp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCBC9342-E2AE-44C0-8F60-603C4294337C}|MouseDrawUDP\\MouseDrawUDP.csproj|solutionrelative:mousedrawudp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBC9342-E2AE-44C0-8F60-603C4294337C}|MouseDrawUDP\\MouseDrawUDP.csproj|c:\\works\\ntust\\courses\\\u7DB2\u8DEF\u7A0B\u5F0F\u8A2D\u8A08\\c#\u7DB2\u8DEF\u7A0B\u5F0F\u8A2D\u8A08\\\u7BC4\u4F8B\u7A0B\u5F0F(\u4E0A\u8AB2\u7528)\\02_drawlines\\mousedrawudp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCBC9342-E2AE-44C0-8F60-603C4294337C}|MouseDrawUDP\\MouseDrawUDP.csproj|solutionrelative:mousedrawudp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Works\\NTUST\\Courses\\\u7DB2\u8DEF\u7A0B\u5F0F\u8A2D\u8A08\\C#\u7DB2\u8DEF\u7A0B\u5F0F\u8A2D\u8A08\\\u7BC4\u4F8B\u7A0B\u5F0F(\u4E0A\u8AB2\u7528)\\02_Drawlines\\MouseDrawUDP\\Form1.cs",
+              "RelativeDocumentMoniker": "MouseDrawUDP\\Form1.cs",
+              "ToolTip": "C:\\Works\\NTUST\\Courses\\\u7DB2\u8DEF\u7A0B\u5F0F\u8A2D\u8A08\\C#\u7DB2\u8DEF\u7A0B\u5F0F\u8A2D\u8A08\\\u7BC4\u4F8B\u7A0B\u5F0F(\u4E0A\u8AB2\u7528)\\02_Drawlines\\MouseDrawUDP\\Form1.cs",
+              "RelativeToolTip": "MouseDrawUDP\\Form1.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAgwLgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T08:21:17.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Works\\NTUST\\Courses\\\u7DB2\u8DEF\u7A0B\u5F0F\u8A2D\u8A08\\C#\u7DB2\u8DEF\u7A0B\u5F0F\u8A2D\u8A08\\\u7BC4\u4F8B\u7A0B\u5F0F(\u4E0A\u8AB2\u7528)\\02_Drawlines\\MouseDrawUDP\\Form1.cs",
+              "RelativeDocumentMoniker": "MouseDrawUDP\\Form1.cs",
+              "ToolTip": "C:\\Works\\NTUST\\Courses\\\u7DB2\u8DEF\u7A0B\u5F0F\u8A2D\u8A08\\C#\u7DB2\u8DEF\u7A0B\u5F0F\u8A2D\u8A08\\\u7BC4\u4F8B\u7A0B\u5F0F(\u4E0A\u8AB2\u7528)\\02_Drawlines\\MouseDrawUDP\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "MouseDrawUDP\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T08:20:51.716Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

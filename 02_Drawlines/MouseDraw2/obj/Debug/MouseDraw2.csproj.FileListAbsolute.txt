@@ -1,0 +1,11 @@
+C:\Works\NTUST\Courses\網路程式設計\C#網路程式設計\範例程式\02_Drawlines\MouseDraw2\bin\Debug\MouseDraw2.exe.config
+C:\Works\NTUST\Courses\網路程式設計\C#網路程式設計\範例程式\02_Drawlines\MouseDraw2\bin\Debug\MouseDraw2.exe
+C:\Works\NTUST\Courses\網路程式設計\C#網路程式設計\範例程式\02_Drawlines\MouseDraw2\bin\Debug\MouseDraw2.pdb
+C:\Works\NTUST\Courses\網路程式設計\C#網路程式設計\範例程式\02_Drawlines\MouseDraw2\obj\Debug\MouseDraw2.csproj.AssemblyReference.cache
+C:\Works\NTUST\Courses\網路程式設計\C#網路程式設計\範例程式\02_Drawlines\MouseDraw2\obj\Debug\MouseDraw2.Properties.Resources.resources
+C:\Works\NTUST\Courses\網路程式設計\C#網路程式設計\範例程式\02_Drawlines\MouseDraw2\obj\Debug\MouseDraw2.csproj.GenerateResource.cache
+C:\Works\NTUST\Courses\網路程式設計\C#網路程式設計\範例程式\02_Drawlines\MouseDraw2\obj\Debug\MouseDraw2.csproj.CoreCompileInputs.cache
+C:\Works\NTUST\Courses\網路程式設計\C#網路程式設計\範例程式\02_Drawlines\MouseDraw2\obj\Debug\MouseDraw2.exe
+C:\Works\NTUST\Courses\網路程式設計\C#網路程式設計\範例程式\02_Drawlines\MouseDraw2\obj\Debug\MouseDraw2.pdb
+C:\Works\NTUST\Courses\網路程式設計\C#網路程式設計\範例程式\02_Drawlines\MouseDraw2\obj\Debug\MouseDraw2.exe.config
+C:\Works\NTUST\Courses\網路程式設計\C#網路程式設計\範例程式\02_Drawlines\MouseDraw2\obj\Debug\MouseDraw2.Form1.resources

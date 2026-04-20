@@ -1,0 +1,11 @@
+C:\Works\NTUST\Courses\網路程式設計\C#網路程式設計\範例程式(上課用)\02_Drawlines\MouseDrawUDP\bin\Debug\MouseDrawUDP.exe.config
+C:\Works\NTUST\Courses\網路程式設計\C#網路程式設計\範例程式(上課用)\02_Drawlines\MouseDrawUDP\bin\Debug\MouseDrawUDP.exe
+C:\Works\NTUST\Courses\網路程式設計\C#網路程式設計\範例程式(上課用)\02_Drawlines\MouseDrawUDP\bin\Debug\MouseDrawUDP.pdb
+C:\Works\NTUST\Courses\網路程式設計\C#網路程式設計\範例程式(上課用)\02_Drawlines\MouseDrawUDP\obj\Debug\MouseDrawUDP.csproj.AssemblyReference.cache
+C:\Works\NTUST\Courses\網路程式設計\C#網路程式設計\範例程式(上課用)\02_Drawlines\MouseDrawUDP\obj\Debug\MouseDrawUDP.Form1.resources
+C:\Works\NTUST\Courses\網路程式設計\C#網路程式設計\範例程式(上課用)\02_Drawlines\MouseDrawUDP\obj\Debug\MouseDrawUDP.Properties.Resources.resources
+C:\Works\NTUST\Courses\網路程式設計\C#網路程式設計\範例程式(上課用)\02_Drawlines\MouseDrawUDP\obj\Debug\MouseDrawUDP.csproj.GenerateResource.cache
+C:\Works\NTUST\Courses\網路程式設計\C#網路程式設計\範例程式(上課用)\02_Drawlines\MouseDrawUDP\obj\Debug\MouseDrawUDP.csproj.CoreCompileInputs.cache
+C:\Works\NTUST\Courses\網路程式設計\C#網路程式設計\範例程式(上課用)\02_Drawlines\MouseDrawUDP\obj\Debug\MouseDrawUDP.exe
+C:\Works\NTUST\Courses\網路程式設計\C#網路程式設計\範例程式(上課用)\02_Drawlines\MouseDrawUDP\obj\Debug\MouseDrawUDP.pdb
+C:\Works\NTUST\Courses\網路程式設計\C#網路程式設計\範例程式(上課用)\02_Drawlines\MouseDrawUDP\obj\Debug\MouseDrawUDP.exe.config

@@ -1,0 +1,10 @@
+C:\Works\NTUST\Courses\網路程式設計\C#網路程式設計\範例程式(上課用)\01_UDPMSN\TAP\bin\Debug\TAP.exe.config
+C:\Works\NTUST\Courses\網路程式設計\C#網路程式設計\範例程式(上課用)\01_UDPMSN\TAP\bin\Debug\TAP.exe
+C:\Works\NTUST\Courses\網路程式設計\C#網路程式設計\範例程式(上課用)\01_UDPMSN\TAP\bin\Debug\TAP.pdb
+C:\Works\NTUST\Courses\網路程式設計\C#網路程式設計\範例程式(上課用)\01_UDPMSN\TAP\obj\Debug\TAP.csproj.AssemblyReference.cache
+C:\Works\NTUST\Courses\網路程式設計\C#網路程式設計\範例程式(上課用)\01_UDPMSN\TAP\obj\Debug\TAP.Form1.resources
+C:\Works\NTUST\Courses\網路程式設計\C#網路程式設計\範例程式(上課用)\01_UDPMSN\TAP\obj\Debug\TAP.Properties.Resources.resources
+C:\Works\NTUST\Courses\網路程式設計\C#網路程式設計\範例程式(上課用)\01_UDPMSN\TAP\obj\Debug\TAP.csproj.GenerateResource.cache
+C:\Works\NTUST\Courses\網路程式設計\C#網路程式設計\範例程式(上課用)\01_UDPMSN\TAP\obj\Debug\TAP.csproj.CoreCompileInputs.cache
+C:\Works\NTUST\Courses\網路程式設計\C#網路程式設計\範例程式(上課用)\01_UDPMSN\TAP\obj\Debug\TAP.exe
+C:\Works\NTUST\Courses\網路程式設計\C#網路程式設計\範例程式(上課用)\01_UDPMSN\TAP\obj\Debug\TAP.pdb
