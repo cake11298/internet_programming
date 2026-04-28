@@ -26,7 +26,7 @@ namespace Q1
         private bool isDrawing;               // 標示是否正在繪製
         Thread Th;
         private List<Point> points;
-        private Color currentColor = Color.Blue;
+        private Color currentColor = Color.Green;
         private int currentThickness = 2;
         private List<Stroke> strokes = new List<Stroke>();
         private Stroke currentStroke;
@@ -52,7 +52,7 @@ namespace Q1
         private void Form1_Load(object sender, EventArgs e)
         {
             //顯示本機IP於標題列
-            this.Text = "Q1 資工系_B11215068_楊智宇" + MyIP();
+            this.Text = "資工三乙_B11215068_楊智宇" + MyIP();
             this.MouseDown += new MouseEventHandler(MainForm_MouseDown);
             this.MouseMove += new MouseEventHandler(MainForm_MouseMove);
             this.MouseUp += new MouseEventHandler(MainForm_MouseUp);
@@ -72,23 +72,29 @@ namespace Q1
         //監聽副程序(自行定義)
         private void Listen()
         {
-            int Port = int.Parse(textBox3.Text);
-            U = new UdpClient(Port);
-            IPEndPoint EP = new IPEndPoint(IPAddress.Any, Port);
-            while (true)
+            try
             {
-                byte[] B = U.Receive(ref EP);
-                string data = Encoding.Default.GetString(B);
-                Stroke s = StringToStroke(data);
-                if (s != null)
+                int Port = int.Parse(textBox3.Text);
+                U = new UdpClient(Port);
+                IPEndPoint EP = new IPEndPoint(IPAddress.Any, Port);
+                while (true)
                 {
-                    this.Invoke((Action)(() =>
+                    byte[] B = U.Receive(ref EP);
+                    string data = Encoding.Default.GetString(B);
+                    Stroke s = StringToStroke(data);
+                    if (s != null)
                     {
-                        strokes.Add(s);
-                        this.Invalidate();
-                    }));
+                        this.Invoke((Action)(() =>
+                        {
+                            strokes.Add(s);
+                            this.Invalidate();
+                        }));
+                    }
                 }
             }
+            catch (SocketException) { }
+            catch (ObjectDisposedException) { }
+            catch { }
         }
 
         //關閉監聽執行續(如果有的話)
@@ -135,14 +141,18 @@ namespace Q1
             {
                 isDrawing = false;
                 strokes.Add(currentStroke);
-                string IP = textBox1.Text;
-                int Port = int.Parse(textBox2.Text);
-                string data = StrokeToString(currentStroke);
-                byte[] B = Encoding.Default.GetBytes(data);
-                UdpClient S = new UdpClient();
-                S.Send(B, B.Length, IP, Port);
-                S.Close();
                 this.Invalidate();
+                try
+                {
+                    string IP = textBox1.Text;
+                    int Port = int.Parse(textBox2.Text);
+                    string data = StrokeToString(currentStroke);
+                    byte[] B = Encoding.Default.GetBytes(data);
+                    UdpClient S = new UdpClient();
+                    S.Send(B, B.Length, IP, Port);
+                    S.Close();
+                }
+                catch { }
             }
         }
 
@@ -248,6 +258,26 @@ namespace Q1
         {
             currentThickness = (int)numericUpDown1.Value;
         }
-        public string MyIP() { return " 140.118.126.38"; }
+        public string MyIP()
+        {
+            try
+            {
+                foreach (var ni in NetworkInterface.GetAllNetworkInterfaces())
+                {
+                    if (ni.OperationalStatus != OperationalStatus.Up) continue;
+                    if (ni.NetworkInterfaceType == NetworkInterfaceType.Loopback) continue;
+                    foreach (var addr in ni.GetIPProperties().UnicastAddresses)
+                    {
+                        if (addr.Address.AddressFamily == AddressFamily.InterNetwork)
+                            return " " + addr.Address.ToString();
+                    }
+                }
+                return " " + Dns.GetHostEntry(Dns.GetHostName())
+                    .AddressList
+                    .FirstOrDefault(a => a.AddressFamily == AddressFamily.InterNetwork)
+                    ?.ToString() ?? "unknown";
+            }
+            catch { return " unknown"; }
+        }
     }
 }
